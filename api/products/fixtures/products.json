@@ -1,0 +1,80 @@
+[
+  {
+    "model": "products.product",
+    "pk": 4,
+    "fields": {
+      "description": "chocolate milk",
+      "manufacturer": "mangolia",
+      "price": 4.5,
+      "cost": 4,
+      "inventory": 10,
+      "barcode": 123442211234,
+      "created_at": "2021-01-24 10:55:26.320014"
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 5,
+    "fields": {
+      "description": "strawberry milk",
+      "manufacturer": "mangolia",
+      "price": 4.5,
+      "cost": 4,
+      "inventory": 80,
+      "barcode": 123443711234,
+      "created_at": "2021-01-24 10:55:26.320014"
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 6,
+    "fields": {
+      "description": "peanute",
+      "manufacturer": "camel",
+      "price": 3.5,
+      "cost": 1,
+      "inventory": 10,
+      "barcode": 123443212234,
+      "created_at": "2021-01-24 10:55:26.320014"
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 7,
+    "fields": {
+      "description": "lollipop",
+      "manufacturer": "mangolia",
+      "price": 0.9,
+      "cost": 0.5,
+      "inventory": 60,
+      "barcode": 129443211234,
+      "created_at": "2021-01-24 10:55:26.320014"
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 8,
+    "fields": {
+      "description": "BBQ chips",
+      "manufacturer": "lays",
+      "price": 6.0,
+      "cost": 4,
+      "inventory": 15,
+      "barcode": 123440211234,
+      "created_at": "2021-01-24 10:55:26.320014"
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 9,
+    "fields": {
+      "description": "chocolate",
+      "manufacturer": "royce",
+      "price": 15,
+      "cost": 9,
+      "inventory": 10,
+      "barcode": 128443211234,
+      "created_at": "2021-01-24 10:55:26.320014"
+    }
+  }
+]
