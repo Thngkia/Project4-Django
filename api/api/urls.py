@@ -29,5 +29,4 @@ router.register(r'users', usersview.UserView, 'user')
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('api/', include(router.urls)),
-    # path('api/<int:receipt_id>/details/', receiptsview.receipt_details, name="receipt_details"),
 ]
